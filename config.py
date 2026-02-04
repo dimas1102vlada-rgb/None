@@ -14,7 +14,7 @@ mysql_user = 'avnadmin'
 mysql_pw   = 'AVNS_Q3ErAZvvJ9Atr8Kzz87'
 
 # Support Chat (Chat ID)
-support_chat = ''               # Пример: -1001429781350 | Узнать ID своего канала можно тут: https://t.me/getidsbot
+support_chat = '-1003593410850'               # Пример: -1001429781350 | Узнать ID своего канала можно тут: https://t.me/getidsbot
 
 # Прочие настройки
 time_zone           = 'GMT+2'   # Настройка временной зоны
