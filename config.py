@@ -5,7 +5,7 @@
 # --------------------------------------------- #
 
 # Telegram
-token = '8475867046:AAGvHqW20sSBLU3xRaAcdOd_fqklzhMSOxs'      # Подробнее: https://core.telegram.org/bots#3-how-do-i-create-a-bot
+token = '8230675731:AAG802jRLKPhzsAbJ5Iv98N_sMHoh0f0nqk'      # Подробнее: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 
 # MySQL Database
 mysql_host = 'mysql-19f68168-dimas1102vlada-0b83.b.aivencloud.com'
