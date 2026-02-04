@@ -5,13 +5,13 @@
 # --------------------------------------------- #
 
 # Telegram
-token = '<ВАШ ТОКЕН БОТА>'      # Подробнее: https://core.telegram.org/bots#3-how-do-i-create-a-bot
+token = '8475867046:AAGvHqW20sSBLU3xRaAcdOd_fqklzhMSOxs'      # Подробнее: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 
 # MySQL Database
-mysql_host = 'localhost'
-mysql_db   = 'TelegramSupportBot'
-mysql_user = 'SupportBotUser'
-mysql_pw   = '<ВАШ ПАРОЛЬ>'
+mysql_host = 'mysql-19f68168-dimas1102vlada-0b83.b.aivencloud.com'
+mysql_db   = 'defaultdb'
+mysql_user = 'avnadmin'
+mysql_pw   = 'AVNS_Q3ErAZvvJ9Atr8Kzz87'
 
 # Support Chat (Chat ID)
 support_chat = ''               # Пример: -1001429781350 | Узнать ID своего канала можно тут: https://t.me/getidsbot
